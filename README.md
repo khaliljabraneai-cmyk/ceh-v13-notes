@@ -1,10 +1,18 @@
 # CEH v13 — Study Notes & Master Review
 
-Exam-focused study notes for the **Certified Ethical Hacker v13 (312-50)** exam — all 20 modules, written for beginners, with comparison tables, important ports, key tools, exam traps, mnemonics, and "what to remember" sections.
+![Modules](https://img.shields.io/badge/modules-20-1F3864)
+![Exam](https://img.shields.io/badge/exam-312--50-0F7C74)
+![Format](https://img.shields.io/badge/format-Markdown%20%2B%20Word-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Level](https://img.shields.io/badge/level-beginner%20friendly-orange)
+
+Beginner-friendly, exam-focused study notes for the **Certified Ethical Hacker v13 (312-50)** exam — all 20 modules, with comparison tables, important ports, key tools, exam traps, mnemonics, and "what to remember" sections.
 
 Everything here is written to help you **recognize the right answer in a scenario**, not just memorize definitions.
 
-> **Disclaimer:** These are independent study notes for exam preparation. They are **not** official EC-Council material and contain no real exam questions. Shared to help others learn.
+> ⭐ If these notes help your prep, a star makes them easier for other students to find.
+
+> **Disclaimer:** Independent study notes for exam preparation. **Not** official EC-Council material and **no** real/leaked exam questions. See [Sources & attribution](#-sources--attribution).
 
 ---
 
@@ -47,14 +55,45 @@ Prefer printable / editable files? The same content is in [`docx/`](docx/) — t
 
 ---
 
+## 🗂️ What's inside each module
+
+Every summary follows the same exam-focused layout so you always know where to look:
+
+- **Definition & simple explanation** in plain English
+- **Comparison tables** for easily-confused concepts
+- **Important ports, protocols & tools**
+- **Example commands** (for authorized lab use only)
+- **⚠️ Exam traps** — the distinctions CEH loves to test
+- **🧠 Mnemonics** and a **"What to remember"** recap
+
+---
+
 ## 🎯 Who this is for
 
 Beginners preparing for CEH v13 who want plain-English explanations, comparison tables, and scenario-based recall rather than dry definitions.
 
+---
+
+## 📖 Sources & attribution
+
+These are **my own write-ups**, created while studying for CEH v13. They are summarized and reorganized in my own words for exam recall — not copies of any book or courseware.
+
+While studying I referenced:
+- Standard CEH v13 study guides (e.g. Matt Walker's *CEH Certified Ethical Hacker All-in-One Exam Guide*) and official EC-Council courseware concepts — for facts and definitions.
+- The community [Mr-Infect/ceh-v13-notes](https://github.com/Mr-Infect/ceh-v13-notes) — for quick-revision style and memory hooks.
+
+Short quotations are attributed inline. All trademarks (CEH, EC-Council) belong to their owners. If you own copyrighted material and believe something here crosses the line, open an issue and I'll fix it promptly.
+
+---
+
 ## 🙌 Contributing
 
-Spotted an error or want to add a mnemonic? Open an issue or a pull request.
+Spotted an error, or have a better mnemonic or table? **Open an issue or a pull request** — corrections and additions are welcome.
 
 ## ⚖️ License
 
 Released under the [MIT License](LICENSE) — free to use, share, and adapt with attribution.
+
+---
+
+*Maintained by [Khalil Jabrane](https://www.linkedin.com/in/khalil-jabrane-673bba1b/). Good luck on your exam — and if this helped, leave a ⭐.*
